@@ -1,4 +1,6 @@
 {
-  "version": "0.2.6",
-  "url": "https://github.com"
+  "latestVersion": "0.2.8",
+  "forceUpdate": false,
+  "apkUrl": "https://github.com/ahofficial007/Syncly/releases/download/v0.2.8/application-50badcc2-b7b5-4999-9d3b-12eb44b2d5ba.apk",
+  "releaseNotes": "Added CRM, Countdown Widgets, and Daily Facts!"
 }
