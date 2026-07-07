@@ -1,6 +1,5 @@
 {
-  "latestVersion": "0.2.8",
-  "forceUpdate": false,
-  "apkUrl": "https://github.com/ahofficial007/Syncly/releases/download/v0.2.8/application-50badcc2-b7b5-4999-9d3b-12eb44b2d5ba.apk",
-  "releaseNotes": "Added CRM, Countdown Widgets, and Daily Facts!"
+  "latestVersion": "0.2.11",
+  "apkUrl": "https://github.com/ahofficial007/Syncly/releases/download/v0.2.11/application-36532af2-ef1e-48cb-877e-48ba6cecb321.apk",
+  "notes": "Added new collapsible settings layout, moved beta badge, and squashed bugs!"
 }
