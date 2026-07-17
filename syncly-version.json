@@ -1,5 +1,5 @@
 {
-  "latestVersion": "0.2.11",
-  "apkUrl": "https://github.com/ahofficial007/Syncly/releases/download/v0.2.11/application-36532af2-ef1e-48cb-877e-48ba6cecb321.apk",
-  "notes": "Added new collapsible settings layout, moved beta badge, and squashed bugs!"
+  "latestVersion": "0.3.0",
+  "apkUrl": "https://github.com/ahofficial007/Syncly/releases/download/v0.3.0/application-1ec61fe9-65e1-4caf-9952-6db30704fcbe.apk",
+  "notes": "Massive performance optimization. Smooth scrolling and compressed UI assets for low-end devices!"
 }
